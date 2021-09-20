@@ -1,1 +1,4 @@
 this is the third file i added to my project
+
+this file comes before the others
+and git is tracking the changes
