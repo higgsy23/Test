@@ -11,3 +11,4 @@ chcxhjkcshkj
 hbsfhjdfh
 
 new text
+Would you like Code to periodically run 'git fetch'?
